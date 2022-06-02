@@ -15,7 +15,7 @@ img{
     --Dark-blue: hsl(218, 44%, 22%);
 }
 body{
-    background-color: var(--grayish-blue);
+    background-color:var(--light-gray);
     font-family: "Outfit", sans-serif;
     font-size: 15px;
     text-align: center; 
@@ -42,7 +42,7 @@ body{
     padding-bottom: 15px;
 }
 .text p{
-    color: var(--light-gray);
+        color: var(--grayish-blue);
 }
 
 
